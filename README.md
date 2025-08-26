@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Franco
 
-<!--
-**francosuarez-dev/francosuarez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Full-Stack** con experiencia en la construcción de aplicaciones modernas y escalables.  
+Me apasiona crear soluciones digitales que combinan **arquitectura sólida, diseño limpio y buena experiencia de usuario**.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=react,next,astro,vite,tailwind,css,html,js,typescript,php,python" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize" /> 
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,graphql" />
+  <img src="https://skillicons.dev/icons?i=yarn,npm,pnpm,wordpress,firebase,supabase,aws,git,docker,vscode,figma" />
+</p>
+
+## 📈 Qué busco
+
+Actualmente estoy abierto a colaborar en:
+
+- Desarrollo de aplicaciones web full-stack
+- Proyectos con arquitectura escalable y buenas prácticas
+- Roles donde pueda aportar soluciones técnicas y seguir aprendiendo
