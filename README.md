@@ -12,10 +12,6 @@ Me apasiona crear soluciones digitales que combinan **arquitectura sólida, dise
   <img src="https://skillicons.dev/icons?i=yarn,npm,pnpm,wordpress,firebase,supabase,aws,git,docker,vscode,figma" />
 </p>
 
-## 📈 Qué busco
+## 🚀 Repositorios Destacados
 
-Actualmente estoy abierto a colaborar en:
-
-- Desarrollo de aplicaciones web full-stack
-- Proyectos con arquitectura escalable y buenas prácticas
-- Roles donde pueda aportar soluciones técnicas y seguir aprendiendo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francosuarez-dev&repo=artistree)](https://github.com/francosuarez-dev/artistree)
